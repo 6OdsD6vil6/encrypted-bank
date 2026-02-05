@@ -1,1 +1,36 @@
-README.md
+# Encrypted Bank
+
+A terminal-based tool for secure financial transactions, built with *************.
+
+## Features
+
+-   Secure Bank-to-Bank ACH Transfer
+-   Cash-to-Bitcoin conversion with a generated barcode
+-   Multi-method Deposit portal
+-   Real-time "Dirty to Clean" transaction monitoring terminal
+
+## Disclaimer
+
+**This tool is for educational and entertainment purposes only. It is a simulation and does not perform any real financial transactions or connect to any banking networks. Use it ethically and responsibly.**
+
+## Installation on Kali Linux
+
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/YOUR_USERNAME/encrypted-bank.git
+    cd encrypted-bank
+    ```
+
+2.  Install the required dependencies:
+    ```bash
+    pip3 install -r requirements.txt
+    ```
+
+3.  Make the script executable:
+    ```bash
+    chmod +x eb.py
+    ```
+
+## Usage
+
+Run the tool from your terminal:
